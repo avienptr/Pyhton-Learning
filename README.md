@@ -1,2 +1,2 @@
 # Pyhton-Learning
-Basic Python learning journey with multiple source
+Basic Python learning journey & exercises with multiple source
